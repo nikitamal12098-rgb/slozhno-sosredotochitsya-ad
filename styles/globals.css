@@ -40,3 +40,14 @@ a {
   font-size: inherit;
   line-height: inherit;
 }
+
+.title-decor {
+  background-color: #FF0070;
+  color: #000028;
+  font-family: 'IBM Plex mono', monospace;
+  font-weight: 700;
+  font-style: bold;
+  font-size: 18px;
+  line-height: 23.4px;
+  letter-spacing: 0%;
+}
