@@ -3,9 +3,11 @@
   и их переопределение под различные устройства
 */
 :root {
+  --display-for-rec: inline;
   --accent-color: #FF0070;
+  --shadow-color: #FF0070;
   --border-color: #FF0070;
-  --decorated-zone-color: #FF0070;
+  --border-hover-button-color: #FF007066;
   --accent-color-link: #FF0070;
   --text-title-color: #FF0070;
   --text-big-title-color: #DB00FF;

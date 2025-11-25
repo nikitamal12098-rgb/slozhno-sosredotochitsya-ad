@@ -42,7 +42,7 @@ a {
 }
 
 .title-decor {
-  background-color: #FF0070;
+  background-color: var(--shadow-color);
   color: #000028;
   font-family: 'IBM Plex mono', monospace;
   font-weight: 700;
