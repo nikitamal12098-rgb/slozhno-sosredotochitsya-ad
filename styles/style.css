@@ -55,7 +55,7 @@
   text-transform: uppercase;
 }
 
-.header__rec::after{
+.header__rec::after {
   content: "";
   position: absolute;
   right: -18px;
@@ -172,7 +172,7 @@
   border: 1px solid var(--text-main-color);
 }
 
-.main__content-title  {
+.main__content-title {
   margin: 20px 0 10px 0;
 }
 
@@ -270,7 +270,7 @@
   }
 
   .main__content-title:first-child {
-   margin-top: 0px; 
+   margin-top: 0px;
   }
 
   .main__text-block-title-first {

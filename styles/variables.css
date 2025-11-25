@@ -14,6 +14,6 @@
   --text-shadow-footer-color: #FF0070;
   --text-main-color: #F1B2CE;
   --cover-image: url('../images/cover-image-dark.png');
-  --font-size-big-header: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem)
+  --font-size-big-header: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
 }
 
