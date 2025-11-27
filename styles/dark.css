@@ -16,6 +16,7 @@
   --text-shadow-footer-color: #FF0070;
   --text-main-color: #F1B2CE;
   --cover-image: url('../images/cover-image-dark.png');
+  --background-color: #000028;
 }
 
 .theme-dark .page {

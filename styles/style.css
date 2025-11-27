@@ -4,6 +4,7 @@
   height: 668px;
   width: 375px;
   background-image: var(--cover-image);
+  background-color: var(--background-color);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -14,6 +15,7 @@
 .header {
   position: relative;
   display: grid;
+  gap: 65px;
   grid-template-columns: 1fr;
   grid-template-rows: repeat(3, auto);
 }
