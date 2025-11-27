@@ -15,7 +15,6 @@
 .header {
   position: relative;
   display: grid;
-  gap: 65px;
   grid-template-columns: 1fr;
   grid-template-rows: repeat(3, auto);
 }
@@ -121,6 +120,7 @@
   text-shadow: 4px 4px 0 var(--shadow-color);
   margin-inline-start: 10px;
   margin-inline-end: 10px;
+  margin-top: 65px;
 }
 
 .header__text {
