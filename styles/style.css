@@ -323,8 +323,8 @@
   .main__content-images-section {
     margin: 80px 20px 60px 20px;
     gap: 20px;
-    grid-template-columns: repeat(3, auto);
-    grid-template-rows: repeat(4, auto);
+    grid-template-columns: repeat(3, 230px);
+    grid-template-rows: 23px 192px 230px 318px;
     grid-template-areas: 
         "title title title"
         "first-image first-image second-image"
