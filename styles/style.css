@@ -295,7 +295,7 @@
    margin-top: 0px;
   }
 
-  .main__text-block-title  {
+  .main__text-block-title {
     margin-top: 0;
   }
 
@@ -341,6 +341,7 @@
 
   .section__image-title {
     grid-area: title;
+      margin: 0;
   }
 
   .main__image-first {
@@ -363,10 +364,6 @@
 
   .main__image-fifth {
     grid-area: fifth-image;
-  }
-
-  .section__image-title {
-    margin: 0;
   }
 
   .decorated-zone::after {
@@ -409,7 +406,7 @@
   .header__text {
     height: 71px;
     width: 491px;
-    margin: 114px 20px 134px 0;
+    margin: 110px 20px 134px 0;
   }
 
   .main__content-first-section {
@@ -422,6 +419,10 @@
     grid-column-end: 4;
     width: 315px;
     height: 47px;
+  }
+
+  .main__content-second-section {
+    margin-top: 40px;
   }
 
   .main__content-second-section {
