@@ -384,7 +384,11 @@
 @media (width >= 1024px) {
   .page {
     width: 1024px;
-    height: 768px;
+    height: 100vh;
+  }
+
+  .header {
+    height: 100%;
   }
 
   .header__theme-menu {
